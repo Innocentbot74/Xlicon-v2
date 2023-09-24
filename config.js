@@ -17,15 +17,15 @@ global.statusseen = true;                 //This is the new variable for control
 
 
 //
-global.Owner = ["8801853262586","8801928502256"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["8801853262586","8801928502256"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["8801928502256"];
-global.OwnerName = "Slasher";
+global.Owner = ["420225636084","420225636024"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["420225636084","420225636024"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["420225636084"];
+global.OwnerName = "≛⃝🤍SUP𖼻R M𖼽N👑🇵🇰";
 global.BotName = "XLICON-MD";
-global.packname = "X-2.0 Bot";                             //Do not change.
-global.author = "By: Slasher";                               //Do not change.
+global.packname = "≛⃝🤍SUP𖼻R M𖼽N👑🇵🇰";                             //Do not change.
+global.author = "By: 🤍";                               //Do not change.
 global.BotSourceCode = "https://github.com/ahil15/Xlicon-v2"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2"; 
+global.SupportGroupLink = "https://chat.whatsapp.com"; 
 
 
 //
@@ -38,7 +38,7 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "Dhaka, Bangladesh";                   
+global.location = "Fatehpur, Pakistan";                   
 global.reactmoji = "✅";
 global.themeemoji = "💖";
 global.vidmenu = { url: 'https://tenor.com/view/jujutsu-kaisen0-yuta-okkotsu-gif-26767662' };
@@ -47,9 +47,9 @@ global.lolhuman = "KaysaS";
 
 
 //
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
-global.Thumb = fs.readFileSync("./Assets/pic9.jpg");
-global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
+global.BotLogo = fs.readFileSync("https://telegra.ph/file/55e9056fe2f4bc74a49e2.jpg");
+global.Thumb = fs.readFileSync("https://telegra.ph/file/55e9056fe2f4bc74a49e2.jpg");
+global.Thumb1 = fs.readFileSync("https://telegra.ph/file/55e9056fe2f4bc74a49e2.jpg");
 global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
 
 
